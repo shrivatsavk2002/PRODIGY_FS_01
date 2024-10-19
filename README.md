@@ -9,6 +9,8 @@
    - Protected routes
    - Responsive design with Tailwind CSS
 
+![Screenshot 2024-10-19 205948](https://github.com/user-attachments/assets/f8829c08-e160-47e6-ad3e-2cad9485638b)
+
    ## Getting Started
 
    1. Clone the repository
